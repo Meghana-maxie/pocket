@@ -1,0 +1,1 @@
+Add badge pair test
