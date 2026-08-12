@@ -1,1 +1,1 @@
-Add badge pair test
+Pair Extraordinaire test
